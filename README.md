@@ -1,6 +1,8 @@
 # The Job Board
 
-Maquette à réaliser
+Site déployé ➡️ **[Job Board](https://antancelin-job-board.netlify.app/)**
+
+Maquette à réaliser :
 
 <img src="./src/assets/img/job-board-wireframe.png">
 
