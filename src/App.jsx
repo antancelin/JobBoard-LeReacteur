@@ -2,6 +2,7 @@ import "./App.css";
 
 import Title from "./components/Title";
 import Jobs from "./components/Jobs";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -80,10 +81,7 @@ const App = () => {
       </main>
       {/* FOOTER */}
       <footer>
-        <p>
-          Made with <span>React</span> at <span>Le Reacteur</span> By{" "}
-          <span>Nono</span>
-        </p>
+        <Footer />
       </footer>
     </>
   );
