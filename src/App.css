@@ -88,3 +88,9 @@ footer span {
 footer a {
   text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+  footer {
+    font-size: 12px;
+  }
+}
